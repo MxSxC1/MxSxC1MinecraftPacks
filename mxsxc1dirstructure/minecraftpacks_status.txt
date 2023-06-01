@@ -1,0 +1,30 @@
+MxSxC1TexturePack (v0.94) 
+MxSxC1ShieldPack - Will Be Combined With Banner/Trim Pack.
+MxSxC1TDIACLS - Unlikely To Be Released Before The Game, This Is Specific To Our Project And Scenes
+MxSxC1ArenaPack (Arena/PVP/Co-Op/Story Mode/Data Packs/Structure Packs)
+MxSxC1BetterSculk (Ghost Warden Will Be Moved From Ghost Pack To Here, Or In Both)
+MxSxC1GhostPack (Ghost Warden / Firefly Demons (Dragons) / New EnderMan / Ender Chicken / Ghost Ghast / Neon Spiders / Ghost Wolves / Loads More - Needs serious work - Ghost Warden will be released into Sculk Pack)
+MxSxC1LampChain - WIP (Chains / Lanterns / Soul Lanterns - Will be combined with LightPack. The Lantern High Quality PBR Template Is ALMOST done, What should have taken an hour, has taken a LONG time, but it is almost there)
+MxSxC1LightPack - To be combined with LampChain. Campfires and Flames looking awesome, Torches, Soul Torches, Frog Lights, Sea Lanterns, Etc...
+MxSxC1StainedGlass Pack - Only Blue and Yellow so far, but they look incredible if we do say so ourselves..
+MxSxC1MirrorsAreMoreFunThanTelevisionPack - Shaders, F/X, Commands, Data Pack, Structures, Etc...And Mirrors Mirrors Mirrors
+MxSxC1IcePack - Ice/Snow/Etc with some crazy transparency effects and structures and may be (or should be) combined with WeatherPack
+MxSxC1WeatherPack - Snow and Rain, remove splashes, improved underwater/particles -Serious overhead however, working on lower quality version...
+MxSxC1TutorialPack (and map) - Wil be combined with tutorials and github to teach you how to cate mods/packs, without all the bull and advertising...
+MxSxC1BannerTrimPack (Name TBC) - Embroidery, Banners, Shields - Armour Trims Pack being combined - Structure For Building & Testing All - Dyes/Patterns/Banners/Shields/Armour Trims/Automated DIsplays/Shield Generation Scripts/And More...
+MxSxC1FlowerPack - You Like Flowers, We Like Flowers - We Like Evil Flowers...
+MxSxC1Arrowpack
+MxSxC1PhotographyAndScreeShots
+MxSxC1ArmourTrims 
+MxSxC1Enchants - Updated for Amazing New Updates in 1.19.3
+MxSxC1Structure Pack - 50 so far including most major locations in TDIACLS and The Alpha version of The Arena.
+MxSxC1DataPack - Really useful Stuff, Time Saving, Gear Loadouts (Dyes/Armour/Weapons/Shields/Banners/Trims/etc)
+MxSxC1PVPDataPack (Scoreboards/Summoning/PVP/Co-Op/Challenge/Reset/GearUp/Etc) - For Use with Arena Pack
+
+---Security/Education---
+MxSxC1W0lv3r1n3 - Security/Privacy/Education - It's time to hit back at the hackers/spyware/mods/packs targeting our children! The honeypot is full. Who Watches The Watchmen? We Do. The Wolverine is waking, and he is not impressed.
+
+---Backlog---
+MxSxC1 CreateModPack - A twinkle in someone's eye... (Backlog)
+MxSxC1Logos (Baklog)
+MxSxC1ArchaelogyPack (Backlog)
